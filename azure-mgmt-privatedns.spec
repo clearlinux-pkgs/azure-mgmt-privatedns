@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-privatedns
 Version  : 0.1.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/1b/88/bd382d401e58b87df086f0218af94e7defd78f7cb300427eee3d25a9d7a1/azure-mgmt-privatedns-0.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/1b/88/bd382d401e58b87df086f0218af94e7defd78f7cb300427eee3d25a9d7a1/azure-mgmt-privatedns-0.1.0.zip
 Summary  : Microsoft Azure DNS Private Zones Client Library for Python
